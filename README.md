@@ -1,1 +1,1 @@
-ÉCRIRE CE QUE J'AI ACQUIS DANS CET EXERCICE
+In this exercise, I practiced creating the HTML boilerplate, creating headings, unordered and ordered lists, links and images.  
